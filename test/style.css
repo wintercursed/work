@@ -1,4 +1,6 @@
-p {
-    color: blue;
-    font-size: 18px;
+.trusted-picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px; /* Set the desired height for the "trusted" picture */
 }
