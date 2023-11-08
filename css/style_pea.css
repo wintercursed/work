@@ -1,0 +1,8 @@
+/* Define the styles for the header */
+header {
+    background-color: purple;
+    color: white;
+    padding: 20px;
+    text-align: left;
+    margin-right: 10px;
+}
