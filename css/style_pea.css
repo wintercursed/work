@@ -41,3 +41,10 @@ footer {
     padding: 20px; /* Padding for spacing */
     text-align: left; /* Center align the content */
 }
+.container {
+    width: 5%; /* Example width */
+    margin: 130; /* Center the container horizontally */
+    background-color: #f0f0f0; /* Background color */
+    padding: 5px; /* Padding for spacing */
+    text-align: center; /* Center align the content */
+}
